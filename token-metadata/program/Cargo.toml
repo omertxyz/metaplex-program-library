@@ -12,6 +12,7 @@ readme = "README.md"
 [features]
 no-entrypoint = []
 test-bpf = []
+serde_support = []
 
 [dependencies]
 num-derive = "~0.3"
